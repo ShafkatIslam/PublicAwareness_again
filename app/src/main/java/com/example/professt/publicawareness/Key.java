@@ -3,7 +3,8 @@ package com.example.professt.publicawareness;
 public class Key {
     //main url or address
     //public static final String MAIN_URL = "http://192.168.43.231";
-    public static final String MAIN_URL = "https://www.tikabarta.com";
+    //public static final String MAIN_URL = "https://www.tikabarta.com";
+    public static final String MAIN_URL = "http://192.168.43.125";
 
     //access db from device for mother
     public static  final String SIGNUP_URL = MAIN_URL+"/alert/signup.php";
